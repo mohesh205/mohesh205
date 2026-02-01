@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohesh</h1>
+<h3 align="center">Front End Developer</h3>
 
-<!--
-**mohesh205/mohesh205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💫 About Me
+🎨 Passionate Front End Developer  
+💻 Love building clean & responsive UIs  
+🌱 Currently learning modern web technologies  
+🚀 Interested in real-world projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect with Me
+- 📧 Email: yourmail@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 🌍 Portfolio: https://yourname.me  
+
+---
+
+## 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC)
+![React](https://img.shields.io/badge/React-61DAFB)
+
+---
+
+## 📊 GitHub Stats
+![Mohesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohesh205&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohesh205&layout=compact&theme=dark)
+
+---
+
+## ✍️ Developer Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
