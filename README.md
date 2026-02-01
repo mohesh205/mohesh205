@@ -12,9 +12,18 @@
 ---
 
 ## 🌐 Connect with Me
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🌍 Portfolio: https://yourname.me  
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://yourname.me">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 ---
 
@@ -25,13 +34,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC)
 ![React](https://img.shields.io/badge/React-61DAFB)
-
----
-
-## 📊 GitHub Stats
-![Mohesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohesh205&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohesh205&layout=compact&theme=dark)
 
 ---
 
